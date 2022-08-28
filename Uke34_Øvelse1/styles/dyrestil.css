@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+p{
+    color: yellow;
+}
+#bilde1 {
+    border: 10px solid #555;
+    width: 350px;
+    cursor: pointer;
+}
