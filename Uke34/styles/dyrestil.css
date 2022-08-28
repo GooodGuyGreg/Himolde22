@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+p{
+    color: yellow;
+}
+img{
+    border: 10px solid #555
+}
+.bildeinnhold{
+    width: 350px;
+}
+.bildeinnhold img{
+    width: 100%;
+    height: 100%;
+}
